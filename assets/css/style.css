@@ -1,0 +1,100 @@
+
+.education_decoration{
+  text-decoration: underline;
+  color: #3F1255;
+}
+
+.jumbotron_education{
+  background-color: #E6E6C1;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
+  padding: 25px;
+}
+
+.jumbotron_skills{
+  background-color: #ebe3e1;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
+  padding: 25px;
+}
+
+.jumbotron_contact{
+  background-color: #D9E5EE;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
+  padding: 25px;
+}
+
+.text_size{
+  font-size: 20px;
+  color: #1F323E;
+}
+
+.heading_size{
+  font-size: 30px;
+  color: #1F362C;
+}
+
+.a{
+  color: white;
+}
+
+.website_color{
+  color: white;
+}
+
+.img_size{
+  height: 200px;
+  width: 300px;
+}
+
+.thankyou_color{
+  color: #fd7e14;
+}
+
+.files{
+  padding: 30px;
+}
+
+.btn-primary{
+  background-color: #f8f9fa;
+  border-color: black;
+  color: white;
+  font-size: 14px;  
+  font-weight: 90px;
+}
+
+.btn-primary:hover{
+  background-color: #f8f9fa;
+  border-color: black;
+  color: white;
+  font-size: 14px;
+  font-weight: 90px;
+}
+
+.title,
+.title a,
+.card-title,
+.card-title a,
+.info-title,
+.info-title a,
+.footer-brand,
+.footer-brand a,
+.footer-big h5,
+.footer-big h5 a,
+.footer-big h4,
+.footer-big h4 a,
+.media .media-heading,
+.media .media-heading a {
+  color: black;
+  text-decoration: none;
+}
